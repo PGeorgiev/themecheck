@@ -1,0 +1,26 @@
+{
+    "name": "pgeorgiev/themecheck",
+    "description": "Run Themecheck in WP_CLI",
+    "type": "wp-cli-package",
+    "homepage": "https://github.com/PGeorgiev/themecheck",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Plamen Georgiev",
+            "email": "hi@pgeorgiev.dev"
+        }
+    ],
+    "autoload": {
+        "files": [ "command.php" ]
+    },
+    "require": {
+        "symfony/finder": "~2.0|~3.0"
+    },
+    "require-dev": {
+        "behat/behat": "~2.5"
+    },
+    "scripts": {
+        "run-behat": "./vendor/bin/behat --strict --ansi"
+    },
+    "minimum-stability": "dev"
+}
