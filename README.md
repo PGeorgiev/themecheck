@@ -11,7 +11,6 @@ Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contr
 wp themecheck
 ```
 
-![peek 2016-10-10 15-02](https://drive.google.com/file/d/1EKWo_yuWVZx27Vpe40ejAZocAAp8ECnp/view)
 
 ## Installing
 
