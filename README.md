@@ -11,7 +11,7 @@ Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contr
 wp themecheck
 ```
 
-![peek 2016-10-10 15-02](https://cloud.githubusercontent.com/assets/1529454/19229848/cd793e9a-8efa-11e6-8abe-a2b55a4243b4.gif)
+![peek 2016-10-10 15-02](https://drive.google.com/file/d/1PKdPBzaERPRV9sxlnjNCjLfzvw0YRJT9/view)
 
 ## Installing
 
